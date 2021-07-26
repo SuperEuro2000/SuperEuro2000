@@ -2,7 +2,10 @@
 
 ## I'm a data scientist and django developer
 
-Latest YouTube Videos
+# Blog posts
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 
 ### Languages and tools
 
