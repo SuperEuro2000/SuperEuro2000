@@ -21,3 +21,6 @@
 [![instagram](https://img.shields.io/badge/-instagram-<COLOR>?style=plastic&logo=instagram)](https://www.instagram.com/supereuro2000/)
 [![linkedin](https://img.shields.io/badge/-linkedin-<COLOR>?style=plastic&logo=linkedin)](https://www.linkedin.com/in/supereuro2000/)
 [![telegram](https://img.shields.io/badge/-telegram-<COLOR>?style=plastic&logo=telegram)](https://t.me/SuperEuro2000)
+
+[![SuperEuro2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperEuro2000&show_icons=true&theme=dracula)](https://github.com/SuperEuro2000/github-readme-stats)
+
