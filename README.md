@@ -1,6 +1,6 @@
 [![Header](https://github.com/SuperEuro2000/SuperEuro2000/blob/main/assets/logo400*80.png)](https://supereuro2000.com/)
 
-## I'm data scientist and django developer
+## I'm a data scientist and django developer
 
 Latest YouTube Videos
 
