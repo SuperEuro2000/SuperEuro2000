@@ -41,5 +41,5 @@
     <summary>:zap: Statistics:</summary>
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SuperEuro2000&show_icons=true&theme=dracula)](https://github.com/SuperEuro2000/github-readme-stats)" />
 </details>
-
+<br />
 ![Profile views](https://komarev.com/ghpvc/?username=supereuro2000)
