@@ -5,10 +5,6 @@
 ### Blog posts
 <!-- YOUTUBE:START -->
 - [r/topic Lounge](https://www.reddit.com/r/topic/comments/p2xoei/rtopic_lounge/)
-- [УязыТау подъём-спуск](https://www.youtube.com/watch?v=cJavT6-4_yE)
-- [Выпуск 1111 81](https://www.youtube.com/watch?v=1uyc35dyPrQ)
-- [КНИТУ ИХТИ](https://www.youtube.com/watch?v=Y-CiGGL9MWQ)
-- [Свияга](https://www.youtube.com/watch?v=ezi9IxaTAaI)
 <!-- YOUTUBE:END -->
 
 ### Languages and tools
