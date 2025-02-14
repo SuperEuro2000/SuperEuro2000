@@ -4,9 +4,8 @@
 
 ### Blog posts
 <!-- YOUTUBE:START -->
-- [УязыТау подъём-спуск](https://www.youtube.com/watch?v=cJavT6-4_yE)
-- [Свияга](https://www.youtube.com/watch?v=ezi9IxaTAaI)
-- [свияжские холмы](https://www.youtube.com/watch?v=cquxSuI6NSg)
+- [Rust 19 Practice Exercises 1](https://youtu.be/_qhiJRk87ZM)
+- [Rust 19 Practice Exercises 2](https://youtu.be/jowm18ktfXE)
 <!-- YOUTUBE:END -->
 
 ### Languages and tools
@@ -36,7 +35,7 @@
 
 ### Follow me
 
-[![twitter](https://img.shields.io/badge/-twitter-<COLOR>?style=plastic&logo=twitter)](https://twitter.com/SuperEuro2000)
+[![twitter](https://img.shields.io/badge/-twitter-<COLOR>?style=plastic&logo=twitter)](https://x.com/SuperEuro2000)
 [![facebook](https://img.shields.io/badge/-facebook-<COLOR>?style=plastic&logo=facebook)](https://www.facebook.com/SuperEuro2000)
 [![instagram](https://img.shields.io/badge/-instagram-<COLOR>?style=plastic&logo=instagram)](https://www.instagram.com/supereuro2000/)
 [![linkedin](https://img.shields.io/badge/-linkedin-<COLOR>?style=plastic&logo=linkedin)](https://www.linkedin.com/in/supereuro2000/)
