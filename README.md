@@ -35,9 +35,7 @@
 
 ### Follow me
 
-[![twitter](https://img.shields.io/badge/-twitter-<COLOR>?style=plastic&logo=twitter)](https://x.com/SuperEuro2000)
-[![facebook](https://img.shields.io/badge/-facebook-<COLOR>?style=plastic&logo=facebook)](https://www.facebook.com/SuperEuro2000)
-[![instagram](https://img.shields.io/badge/-instagram-<COLOR>?style=plastic&logo=instagram)](https://www.instagram.com/supereuro2000/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=f5b836)](mailto:supereuro2000@mail.ru)
 [![linkedin](https://img.shields.io/badge/-linkedin-<COLOR>?style=plastic&logo=linkedin)](https://www.linkedin.com/in/supereuro2000/)
 [![telegram](https://img.shields.io/badge/-telegram-<COLOR>?style=plastic&logo=telegram)](https://t.me/SuperEuro2000)
 
