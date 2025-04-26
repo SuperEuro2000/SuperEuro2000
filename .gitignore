@@ -1,0 +1,17 @@
+# Rust build
+/target/
+**/*.rs.bk
+
+# Trunk build output
+/dist/
+
+# macOS system files
+.DS_Store
+
+# IDEs
+/.vscode/
+/.idea/
+/*.swp
+
+# Node/npm artifacts (если вдруг появится)
+/node_modules/
